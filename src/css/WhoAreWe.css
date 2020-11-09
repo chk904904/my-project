@@ -1,0 +1,113 @@
+.about-wrapper {
+  height: 100vh;
+  width: 100vw;
+}
+.about-text {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+#Black_girl.show {
+  position: absolute;
+  top: 11.3vw;
+  left: 38vw;
+  animation: slide-in 1s forwards;
+}
+
+#Black_girl.hidden {
+  position: absolute;
+  top: 0vw;
+  left: 38vw;
+  animation: slide-out 1s forwards;
+}
+
+@keyframes slide-out {
+  100% {
+    top: 11.3vw;
+  }
+}
+
+@keyframes slide-in {
+  100% {
+    top: 0;
+  }
+}
+
+#left_triangle.show {
+  position: absolute;
+  left: 20vw;
+  top: -8.5vw;
+  animation: slide-in-left 1s forwards;
+}
+
+#left_triangle.hidden {
+  position: absolute;
+  left: 32.4vw;
+  top: -8.5vw;
+  animation: slide-out-left 1s forwards;
+}
+
+@keyframes slide-in-left {
+  100% {
+    left: 32.4vw;
+  }
+}
+@keyframes slide-out-left {
+  100% {
+    left: 20vw;
+  }
+}
+#right_triangle.show {
+  position: absolute;
+  right: 20vw;
+  top: -8.5vw;
+  animation: slide-in-right 1s forwards;
+}
+#right_triangle.hidden {
+  position: absolute;
+  right: 32.4vw;
+  top: -8.5vw;
+  animation: slide-out-right 1s forwards;
+}
+
+@keyframes slide-in-right {
+  100% {
+    right: 32.4vw;
+  }
+}
+
+@keyframes slide-out-right {
+  100% {
+    right: 20vw;
+  }
+}
+
+#words.show {
+  animation: slide-in-up 1s forwards;
+  position: absolute;
+  left: 42.9vw;
+  top: 26.2vw;
+  opacity: 0;
+}
+
+#words.hidden {
+  animation: slide-out-up 1s forwards;
+  position: absolute;
+  left: 42.9vw;
+  top: 13vw;
+  opacity: 1;
+}
+
+@keyframes slide-in-up {
+  100% {
+    top: 13vw;
+    opacity: 1;
+  }
+}
+
+@keyframes slide-out-up {
+  100% {
+    top: 26.2vw;
+    opacity: 0;
+  }
+}
