@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/my-project/static/css/main.88e49286.chunk.css",
+    "main.js": "/my-project/static/js/main.3dc4e6e6.chunk.js",
+    "main.js.map": "/my-project/static/js/main.3dc4e6e6.chunk.js.map",
+    "runtime-main.js": "/my-project/static/js/runtime-main.e53e0503.js",
+    "runtime-main.js.map": "/my-project/static/js/runtime-main.e53e0503.js.map",
+    "static/css/2.55b94672.chunk.css": "/my-project/static/css/2.55b94672.chunk.css",
+    "static/js/2.033daae8.chunk.js": "/my-project/static/js/2.033daae8.chunk.js",
+    "static/js/2.033daae8.chunk.js.map": "/my-project/static/js/2.033daae8.chunk.js.map",
+    "static/js/3.2788d12b.chunk.js": "/my-project/static/js/3.2788d12b.chunk.js",
+    "static/js/3.2788d12b.chunk.js.map": "/my-project/static/js/3.2788d12b.chunk.js.map",
+    "index.html": "/my-project/index.html",
+    "static/css/2.55b94672.chunk.css.map": "/my-project/static/css/2.55b94672.chunk.css.map",
+    "static/css/main.88e49286.chunk.css.map": "/my-project/static/css/main.88e49286.chunk.css.map",
+    "static/js/2.033daae8.chunk.js.LICENSE.txt": "/my-project/static/js/2.033daae8.chunk.js.LICENSE.txt",
+    "static/js/3.2788d12b.chunk.js.LICENSE.txt": "/my-project/static/js/3.2788d12b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/my-project/static/media/MADE Coachella Thin PERSONAL USE.08bbc43b.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e53e0503.js",
+    "static/css/2.55b94672.chunk.css",
+    "static/js/2.033daae8.chunk.js",
+    "static/css/main.88e49286.chunk.css",
+    "static/js/main.3dc4e6e6.chunk.js"
+  ]
+}
